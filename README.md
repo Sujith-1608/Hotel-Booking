@@ -1,12 +1,66 @@
-# React + Vite
+# 🏨 Hotel Booking Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive hotel booking website where users can search for hotels, view details, and make bookings. Built using modern frontend technologies and deployed on Vercel.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Click here to visit](https://hotel-booking-snowy-nine.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Home Page | Booking Page | Admin Page |
+|-----------|--------------|--------------|
+| ![Home](Screenshots/Homepage.png) | ![Booking](Screenshots/Bookings.png) | ![Owner](Screenshots/Owner.png) |
+
+
+---
+
+## 🚀 Features
+
+- 🏨 Hotel listing with filtering
+- 📄 Detailed view of selected hotels
+- 📆 Booking form with calendar input
+- 🔍 Search functionality
+- ☁️ Hosted live on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, Tailwind CSS, JavaScript, React.js
+- **Deployment**: Vercel
+
+---
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Sujith-1608/Hotel-Booking.git
+cd Brand-Page
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+### 3.  Run the app
+```bash
+npm start
+```
+### 4.  Build for production
+```bash
+npm run build
+```
+## 📦 Deployment
+Deployed on Vercel – push to main branch and it's live 🚀.
+
+## 📬 Contact
+Sujith Reddy Sama
+📧 ssujithreddi@gmail.com
+
+##
+Give it a ⭐ if you liked the project!
+##
+
+
+
+
