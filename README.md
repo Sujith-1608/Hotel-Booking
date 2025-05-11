@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Web Application
 
-A responsive hotel booking website where users can search for hotels, view details, and make bookings. Built using modern frontend technologies and deployed on Vercel.
+A responsive hotel booking website (front-end only) where users can search for hotels, view details, and make bookings. Built using modern frontend technologies and deployed on Vercel.
 
 🔗 **Live Demo**: [Click here to visit](https://hotel-booking-snowy-nine.vercel.app/)
 
