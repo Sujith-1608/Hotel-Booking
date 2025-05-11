@@ -36,7 +36,7 @@ A responsive hotel booking website (front-end only) where users can search for h
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Sujith-1608/Hotel-Booking.git
-cd Brand-Page
+cd Hotel-Booking
 ```
 ### 2. Install dependencies
 ```bash
